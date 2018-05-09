@@ -1,0 +1,18 @@
+{
+    "name": "Theme",
+    "alias": "theme",
+    "description": "",
+    "keywords": [],
+    "version": "0.1.0",
+    "active": 1,
+    "order": 1,
+    "providers": [
+        "Modules\\Theme\\Providers\\ThemeServiceProvider",
+        "Modules\\Theme\\Providers\\RouteServiceProvider"
+    ],
+    "aliases": {},
+    "files": [
+
+    ],
+    "requires": []
+}
